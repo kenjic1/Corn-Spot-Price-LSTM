@@ -32,7 +32,10 @@ To evaluate this model I will use Mean Squared Error as the criterion.
 
 **Model Predictions (work on uploading images):**
 
-
+![Results](/results4.png)
+![Results](/results1.png)
+![Results](/results2.png)
+![Results](/results3.png)
 
 **Model Limitations:**
 
