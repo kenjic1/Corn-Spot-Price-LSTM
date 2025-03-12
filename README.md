@@ -30,7 +30,7 @@ https://cds.climate.copernicus.eu/datasets/sis-agroclimatic-indicators?tab=overv
 To evaluate this model I will use Mean Squared Error as the criterion.
 
 
-**Model Predictions (work on uploading images):**
+**Model Predictions:**
 
 ![Results](/results4.png)
 ![Results](/results1.png)
