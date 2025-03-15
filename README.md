@@ -22,6 +22,8 @@ https://cds.climate.copernicus.eu/datasets/sis-agroclimatic-indicators?tab=overv
 
 **Instructions on how to train model:**
 
+You don't need to! The model has pretrained weights you can access through pretrained_model.ipynb, however, to run it yourself either go to Demo_Notebook.ipynb which contains a fully implemented version or train_model.ipynb, which has all the relevant training code. To access the data get access to Talapas and use the base_dir path to access datasets from dataloader.ipynb.
+
 
 **Metrics to Evaluate Model:**
 
